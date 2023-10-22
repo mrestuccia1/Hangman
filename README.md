@@ -1,7 +1,7 @@
 # Hangman
 This is a hangman game, built entirely in Java. 
 
-##To play:
+## To play:
   1. Clone the repository
   2. Compile by typing make
   3. Run the executable by running 'java Hangman'
