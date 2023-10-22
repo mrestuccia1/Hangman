@@ -1,10 +1,12 @@
 # Hangman
-This is a hangman game, built entirely in Java. To play:
+This is a hangman game, built entirely in Java. 
+
+**To play:**
   1. Clone the repository
   2. Compile by typing make
   3. Run the executable by running 'java Hangman'
      
-Here is what the game looks like:
+**Here is what the game looks like:**
 
 While playing:
 
